@@ -1,0 +1,17 @@
+#board {
+  padding: 0px; 
+  margin: 0 auto; 
+  border: 2px solid #181818; 
+}
+
+.square {
+  width: 60px; 
+  height: 60px; 
+}
+
+.light_square {
+}
+
+.dark_square {
+  background-color: #000000;
+}
